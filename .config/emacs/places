@@ -1,0 +1,162 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.latest/"
+  (dired-filename
+   . "/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.latest/Latest"))
+ ("/sudo:root@macbook:/usr/local/etc/poudriere.d/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/etc/poudriere.d/port-list"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/packages/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD"))
+ ("/home/djwilcox/git/cerberus/freebsd/"
+  (dired-filename
+   . "/home/djwilcox/git/cerberus/freebsd/freebsd-wayland.org"))
+ ("/home/djwilcox/git/cerberus/freebsd/freebsd-wayland.org" . 44963)
+ ("/home/djwilcox/.config/emacs/elfeed/index" . 384)
+ ("/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.latest/Latest/"
+  . 75)
+ ("/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.latest/All/"
+  (dired-filename
+   . "/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.latest/All/pkg-1.21.1.pkg"))
+ ("/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/"
+  (dired-filename
+   . "/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.latest"))
+ ("/usr/local/poudriere/data/packages/"
+  (dired-filename
+   . "/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD"))
+ ("/usr/local/poudriere/data/"
+  (dired-filename . "/usr/local/poudriere/data/packages"))
+ ("/usr/local/poudriere/"
+  (dired-filename . "/usr/local/poudriere/data"))
+ ("/home/djwilcox/desktop/"
+  (dired-filename . "/home/djwilcox/desktop/freebsd_14-0x64-HEAD"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/"
+  . 79)
+ ("/sudo:root@macbook:/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.real_1715789934/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.real_1715789934/."))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.building/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.building/logs"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.building/logs/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.building/logs/logs"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.building/logs/logs/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.building/logs/logs/errors"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/.building/logs/logs/errors/"
+  . 106)
+ ("/sudo:root@macbook:/usr/local/poudriere/data/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/packages"))
+ ("/sudo:root@macbook:/usr/local/poudriere/"
+  (dired-filename . "/sudo:root@macbook:/usr/local/poudriere/data"))
+ ("/home/djwilcox/git/cerberus/"
+  (dired-filename . "/home/djwilcox/git/cerberus/freebsd"))
+ ("/usr/local/etc/poudriere.d/"
+  (dired-filename . "/usr/local/etc/poudriere.d/hooks"))
+ ("/usr/local/etc/" (dired-filename . "/usr/local/etc/poudriere.d"))
+ ("/usr/local/etc/poudriere.conf" . 12217)
+ ("/usr/local/" (dired-filename . "/usr/local/poudriere"))
+ ("/usr/" (dired-filename . "/usr/local"))
+ ("/usr/local/etc/poudriere.d/ports/"
+  (dired-filename . "/usr/local/etc/poudriere.d/ports/HEAD"))
+ ("/usr/local/etc/poudriere.d/jails/"
+  (dired-filename . "/usr/local/etc/poudriere.d/jails/freebsd_14-0x64"))
+ ("/home/djwilcox/git/cerberus/freebsd/destroy-jail.org" . 637)
+ ("/home/djwilcox/git/"
+  (dired-filename . "/home/djwilcox/git/cerberus"))
+ ("/home/djwilcox/git/projects/"
+  (dired-filename
+   . "/home/djwilcox/git/projects/davinci-resolve-freebsd"))
+ ("/home/djwilcox/git/projects/davinci-resolve-freebsd/"
+  (dired-filename
+   . "/home/djwilcox/git/projects/davinci-resolve-freebsd/README.org"))
+ ("/home/djwilcox/git/projects/davinci-resolve-freebsd/README.org"
+  . 55407)
+ ("/sudo:root@macbook:/usr/local/poudriere/ports/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/ports/HEAD"))
+ ("/sudo:root@macbook:/usr/local/poudriere/jails/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/jails/freebsd_14-0x64"))
+ ("/sudo:root@macbook:/usr/local/poudriere/jails/freebsd_14-0x64/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/jails/freebsd_14-0x64/COPYRIGHT"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/wrkdirs/" . 57)
+ ("/sudo:root@macbook:/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/Latest/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/Latest/pkg.pkg.pubkeysig"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/packages/freebsd_14-0x64-HEAD/All/"
+  . 83)
+ ("/sudo:root@macbook:/usr/local/poudriere/data/logs/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/logs/bulk"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/logs/bulk/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/logs/bulk/latest-per-pkg"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/logs/bulk/latest-per-pkg/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/logs/bulk/latest-per-pkg/gettext-runtime"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/logs/bulk/freebsd_14-0x64-HEAD/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/logs/bulk/freebsd_14-0x64-HEAD/latest"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/logs/bulk/freebsd_14-0x64-HEAD/latest/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/logs/bulk/freebsd_14-0x64-HEAD/latest/assets"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/logs/bulk/freebsd_14-0x64-HEAD/latest-done/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/logs/bulk/freebsd_14-0x64-HEAD/latest-done/assets"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/logs/bulk/freebsd_14-0x64-HEAD/latest-per-pkg/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/logs/bulk/freebsd_14-0x64-HEAD/latest-per-pkg/gettext-runtime-0.22.5.log"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/images/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/images"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/cache/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/cache"))
+ ("/sudo:root@macbook:/usr/local/"
+  (dired-filename . "/sudo:root@macbook:/usr/local/poudriere"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/cache/freebsd_14-0x64-HEAD/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/cache/freebsd_14-0x64-HEAD/gettext-runtime-0.22.5.pkg"))
+ ("/sudo:root@macbook:/usr/local/poudriere/data/cache/freebsd_14-0x64-HEAD/gettext-runtime-0.22.5.pkg/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/data/cache/freebsd_14-0x64-HEAD/gettext-runtime-0.22.5.pkg/1715723314"))
+ ("/sudo:root@macbook:/usr/local/poudriere/ports/HEAD/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/local/poudriere/ports/HEAD/CHANGES"))
+ (#("/sudo:root@macbook:/usr/local/etc/poudriere.d/make.conf" 6 10
+    (tramp-default t) 11 18 (tramp-default t))
+  . 22)
+ (#("/sudo:root@macbook:/boot/loader.conf" 6 10 (tramp-default t) 11
+    18 (tramp-default t))
+  . 709)
+ (#("/sudo:root@macbook:/usr/src/sys/amd64/conf/MYKERNEL" 6 10
+    (tramp-default t) 11 18 (tramp-default t))
+  . 11721)
+ ("/home/djwilcox/git/freebsd/freebsd-dotfiles/"
+  (dired-filename
+   . "/home/djwilcox/git/freebsd/freebsd-dotfiles/.zshrc"))
+ ("/home/djwilcox/.zshrc" . 3404)
+ ("/home/djwilcox/git/freebsd/freebsd-dotfiles/.zshrc" . 3405)
+ ("/home/djwilcox/git/freebsd/"
+  (dired-filename . "/home/djwilcox/git/freebsd/freebsd-dotfiles"))
+ ("/home/djwilcox/desktop/asmc-macbook/"
+  (dired-filename . "/home/djwilcox/desktop/asmc-macbook/asmcvar.h"))
+ ("/home/djwilcox/desktop/asmc-macbook/asmcvar.h" . 16437)
+ ("/home/djwilcox/desktop/asmc-macbook/asmc.c" . 9738)
+ ("/sudo:root@macbook:/usr/src/sys/amd64/conf/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/src/sys/amd64/conf/MYKERNEL"))
+ ("/sudo:root@macbook:/usr/src/sys/dev/asmc/"
+  (dired-filename
+   . "/sudo:root@macbook:/usr/src/sys/dev/asmc/asmcvar.h"))
+ ("/sudo:root@macbook:/usr/src/sys/dev/asmc/asmcvar.h" . 16261)
+ ("/usr/src/sys/dev/asmc/"
+  (dired-filename . "/usr/src/sys/dev/asmc/asmc.c.bak"))
+ ("/usr/src/sys/dev/asmc/asmc.c" . 9423)
+ (#("/sudo:root@macbook:/usr/src/sys/dev/asmc/asmc.c" 6 10
+    (tramp-default t) 11 18 (tramp-default t))
+  . 9682))
